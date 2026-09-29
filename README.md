@@ -1,10 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Ton%20Nom&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full-Stack%20%7C%20Créateur%20%7C%20Rêveur&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:f5576c,100:764ba2&height=240&section=header&text=Ton%20Nom&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Créateur%20%7C%20Passionné&descAlignY=58&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;UI%2FUX+Lover+%F0%9F%8E%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%8C%9F+Open+Source+Enthusiast;%F0%9F%8E%A8+UI%2FUX+Lover;%F0%9F%9A%80+Always+Building+Something" />
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/TON_PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
+  <a href="https://twitter.com/TON_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" /></a>
+  <a href="https://ton-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2 align="center">👨‍💻 À propos de moi</h2>
 
@@ -18,32 +27,60 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,python,postgres,docker,git,figma,linux&theme=dark&perline=6" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">🚀 Mes projets phares</h2>
+
+<p align="center">
+  <a href="https://github.com/guiwarp/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+  </a>
+  <a href="https://github.com/guiwarp/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/guiwarp/REPO_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+  </a>
+  <a href="https://github.com/guiwarp/REPO_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <h2 align="center">📊 Mes statistiques</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=36BCF7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiwarp&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiwarp&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2 align="center">🏆 Trophées</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guiwarp&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
 </p>
 
 <h2 align="center">🐍 Mes contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TON_USERNAME/guiwarp/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-snake-dark.svg" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2 align="center">💭 Citation du jour</h2>
 
@@ -54,18 +91,10 @@
 <h2 align="center">📫 Me contacter</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TON_PROFIL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="mailto:TON_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://twitter.com/TON_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://ton-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" />
-  </a>
+  <a href="https://linkedin.com/in/TON_PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
+  <a href="https://twitter.com/TON_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" /></a>
+  <a href="https://ton-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" /></a>
 </p>
 
 <p align="center">
@@ -73,5 +102,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:f5576c,100:764ba2&height=140&section=footer" />
 </p>
