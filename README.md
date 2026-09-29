@@ -33,19 +33,19 @@
 
 <p align="center">
   <a href="https://github.com/guiwarp/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guiwarp&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
   </a>
   <a href="https://github.com/guiwarp/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guiwarp&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/guiwarp/REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guiwarp&repo=REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
   </a>
   <a href="https://github.com/guiwarp/REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guiwarp&repo=REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
   </a>
 </p>
 
@@ -59,11 +59,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiwarp&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiwarp&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -71,13 +71,13 @@
 <h2 align="center">🏆 Trophées</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guiwarp&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
 </p>
 
 <h2 align="center">🐍 Mes contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/TON_USERNAME/guiwarp/output/github-snake-dark.svg" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
