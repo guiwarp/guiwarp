@@ -19,7 +19,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guiwarp&label=Visiteurs&color=667eea&style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/github/followers/guiwarp?style=for-the-badge&color=667eea&labelColor=000000&logo=github" />&nbsp;
   <img src="https://img.shields.io/badge/Status-Disponible%20pour%20collaborer-success?style=for-the-badge&labelColor=000000" />
 </p>
 
